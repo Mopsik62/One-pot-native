@@ -4,5 +4,5 @@
 https://github.com/Mopsik62/RIP2023
 ### Фронт
 https://github.com/Mopsik62/One-pot-front
-### Нативное приложение
+### Асинхронный сервис
 https://github.com/Mopsik62/One-pot-async
